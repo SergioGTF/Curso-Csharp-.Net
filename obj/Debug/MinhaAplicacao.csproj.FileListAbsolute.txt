@@ -1,0 +1,10 @@
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\bin\Debug\MinhaAplicacao.exe.config
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\bin\Debug\MinhaAplicacao.exe
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\bin\Debug\MinhaAplicacao.pdb
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\obj\Debug\MinhaAplicacao.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\obj\Debug\MinhaAplicacao.exe
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\obj\Debug\MinhaAplicacao.pdb
+C:\Users\sergi\OneDrive\Documentos\Curso C#\MinhaAplicacao\obj\Debug\MinhaAplicacao.FrmMeuSistema.resources
